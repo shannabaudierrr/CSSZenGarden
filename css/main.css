@@ -281,5 +281,23 @@ img{
 .nav-content{
   gap: 20px;
   display: flex;
-  
+}
+.ea-logo{
+  max-width: 125px;
+}
+.dani-demo-header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.dani-demo-nav a:not(:last-child){
+  border-right: 1px solid 
+}
+.dani-demo-nav a{
+  padding: 8px;
+}
+.joseph-image-demo{
+  max-width: 800px;
+  margin-left:auto;
+  margin-right:auto;
 }
